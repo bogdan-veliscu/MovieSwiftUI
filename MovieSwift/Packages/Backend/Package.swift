@@ -18,6 +18,6 @@ let package = Package(
         .target(name: "Backend", dependencies: [])
     ],
     swiftLanguageVersions: [
-        .version("5.2")
+        .version("5.1")
     ]
 )
